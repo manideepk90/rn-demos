@@ -26,7 +26,7 @@ rn-demos/
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v18 or higher)
 - npm or yarn
 - React Native CLI or Expo CLI (depending on the demo)
 - Android Studio / Xcode (for native builds)

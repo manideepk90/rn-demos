@@ -12,7 +12,7 @@ A simple "Hello World" React Native demo to demonstrate the basic structure and 
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v18 or higher)
 - npm or yarn
 - Expo CLI or React Native CLI
 

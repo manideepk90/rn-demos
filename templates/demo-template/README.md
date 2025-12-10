@@ -16,7 +16,7 @@ Brief description of what this demo showcases.
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v18 or higher)
 - npm or yarn
 - React Native CLI / Expo CLI
 
